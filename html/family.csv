@@ -1,0 +1,14 @@
+id,name,relationship,relative,relativename
+Q4321775,Muza Niyazova,child,Q6937417,Murat Niyazov
+Q4321775,Muza Niyazova,spouse,Q82918,Saparmurat Niyazov
+Q51874548,Serdar Berdimuhamedow,father,Q57530,Gurbanguly Berdimuhamedow
+Q51874548,Serdar Berdimuhamedow,mother,Q95557031,Ogulgerek Berdimuhamedova
+Q57530,Gurbanguly Berdimuhamedow,child,Q51874548,Serdar Berdimuhamedow
+Q57530,Gurbanguly Berdimuhamedow,father,Q4084105,Berdimuhamedov Myalikguly Berdymuhamedovich
+Q57530,Gurbanguly Berdimuhamedow,spouse,Q95557031,Ogulgerek Berdimuhamedova
+Q82918,Saparmurat Niyazov,child,Q6937417,Murat Niyazov
+Q82918,Saparmurat Niyazov,father,Q24350866,Atamyrat Niyazov
+Q82918,Saparmurat Niyazov,mother,Q4152249,Gurbansoltan Eje
+Q82918,Saparmurat Niyazov,spouse,Q4321775,Muza Niyazova
+Q95557031,Ogulgerek Berdimuhamedova,child,Q51874548,Serdar Berdimuhamedow
+Q95557031,Ogulgerek Berdimuhamedova,spouse,Q57530,Gurbanguly Berdimuhamedow
