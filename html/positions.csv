@@ -1,4 +1,9 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q1155759,President of Turkmenistan,Q874,Q874,,,1990-11-02,,,,President of Turkmenistan
+Q4185705,Vice President of Turkmenistan,Q874,Q874,,,1992-01,,,,Vice President of Turkmenistan
+Q113501617,Minister of Defense of Turkmenistan,,Q874,,,,,,,
+Q113501646,Minister of Finance (Turkmenistan),,Q874,,,,,,,
+Q113501685,Minister of Finance and Economy of Turkmenistan,,Q874,,,,,,,
 Q108837408,Minister of Foreign Affairs of Turkmenistan,Q874,Q874,,Q4294954,,,,,
+Q113501623,Minister of Internal Affairs,,Q874,,,,,,,
 Q108837394,Chairman of the Assembly of Turkmenistan,Q874,,,Q4376666,1993,,,,
