@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense of Turkmenistan"
+      ],
+      "stated_as": "Minister of Defense of Turkmenistan"
+    },
+    "P580": "2011-03-29",
+    "P1365": {
+      "links": [
+        "Yaylym Berdiyev"
+      ],
+      "stated_as": "Yaylym Berdiyev"
+    },
+    "P582": "2015-10-05",
+    "P1366": {
+      "links": [
+        "Yaylym Berdiyev"
+      ],
+      "stated_as": "Yaylym Berdiyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Border Service of Turkmenistan"
+      ],
+      "stated_as": "Head of the State Border Service of Turkmenistan"
+    },
+    "P580": "2016-03-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Myrat Yslamov"
+    },
+    "P582": "2018-06-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Shadurdy Durdyyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defense of Turkmenistan"
+      ],
+      "stated_as": "Minister of Defense of Turkmenistan"
+    },
+    "P580": "2018-06-14",
+    "P1365": {
+      "links": [
+        "Yaylym Berdiyev"
+      ],
+      "stated_as": "Yaylym Berdiyev"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "State Security Council of Turkmenistan"
+      ],
+      "stated_as": "Secretary of the State Security Council of Turkmenistan"
+    },
+    "P580": "2022-04-06",
+    "P1365": {
+      "links": [
+        "Çarymyrat Amanow"
+      ],
+      "stated_as": "Çarymyrat Amanow"
+    }
+  }
+]
