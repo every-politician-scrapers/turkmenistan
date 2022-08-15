@@ -566,7 +566,12 @@
                   "type": "internal",
                   "page": "colonel"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "\"Defender of Homeland Turkmenistan\""
+                ]
+              }
             }
           ]
         }
