@@ -619,10 +619,10 @@
       ],
       "references": [
         {
+          "url": "http://www.turkmenistan.gov.tm/?id=16490",
+          "title": "Turkmenistan Altyn Asyr",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://en.hronikatm.com/2018/06/president-berdymukhammedov-makes-reshuffles-in-law-enforcement-agencies/",
