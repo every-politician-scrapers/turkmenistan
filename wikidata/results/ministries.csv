@@ -1,12 +1,12 @@
-item,itemLabel,minister,ministerLabel
-Q16676569,Ministry of Agriculture of Turkmenistan,,
-Q4294660,Ministry of Communications,,
-Q4294439,Ministry of Culture,,
-Q56305935,Ministry of Economy and Development of Turkmenistan,,
-Q4294845,Ministry of Energy (Turkmenistan),,
-Q4294792,Ministry of Finance (Turkmenistan),Q113501646,Minister of Finance (Turkmenistan)
-Q56305977,Ministry of Finance and Economy of Turkmenistan,Q113501685,Minister of Finance and Economy of Turkmenistan
-Q4294398,Ministry of Foreign Affairs of Turkmenistan,Q108837408,Minister of Foreign Affairs of Turkmenistan
-Q4294274,Ministry of Health,,
-Q17044479,Ministry of Railways,,
-Q4146824,State Committee for Tourism of Turkmenistan,,
+item,itemLabel,minister,ministerLabel,began,ended
+Q16676569,Ministry of Agriculture of Turkmenistan,,,,
+Q4294660,Ministry of Communications,,,1991,2019
+Q4294439,Ministry of Culture,,,2011,
+Q56305935,Ministry of Economy and Development of Turkmenistan,,,2008,2017
+Q4294845,Ministry of Energy (Turkmenistan),,,2012,
+Q4294792,Ministry of Finance (Turkmenistan),Q113501646,Minister of Finance (Turkmenistan),2008,2017
+Q56305977,Ministry of Finance and Economy of Turkmenistan,Q113501685,Minister of Finance and Economy of Turkmenistan,,
+Q4294398,Ministry of Foreign Affairs of Turkmenistan,Q108837408,Minister of Foreign Affairs of Turkmenistan,1991,
+Q4294274,Ministry of Health,,,1991,
+Q17044479,Ministry of Railways,,,,
+Q4146824,State Committee for Tourism of Turkmenistan,,,2012,
