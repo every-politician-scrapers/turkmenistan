@@ -506,6 +506,9 @@
           },
           {
             "text": "\"Galkynysh\" Order"
+          },
+          {
+            "text": "\"Dustlik\" Order (Uzbekistan, Order of Friendship)"
           }
         ]
       ],
@@ -517,6 +520,15 @@
           "website": "www.turkmenistan.ru",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://tdh.gov.tm/ru/post/32601/prezident-turkmenistana-prinyal-predstavitelej-delegacii-uzbekistana",
+          "title": "Президент Туркменистана принял представителей делегации Узбекистана",
+          "language": "ru",
+          "date": "26 August 2022",
+          "publisher": "Туркменистан сегодня",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "https://www.parahat.info/edict/2093",
