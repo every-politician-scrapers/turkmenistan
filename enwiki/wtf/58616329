@@ -565,7 +565,7 @@
               "text": "He was reappointed defense minister on 14 June 2018."
             },
             {
-              "text": "On 22 January 2020, he received a \"stern reprimand with the final warning for improper performance of official duties\"."
+              "text": "On 22 January 2020, he received a \"stern reprimand with final warning for improper performance of official duties\"."
             },
             {
               "text": "He was reprimanded among other things for allowing troops to write off still serviceable cars to private individuals (for example, several ZIL and Ural trucks were sold from a motor pool stationed in the city of Serdar).",
@@ -639,12 +639,6 @@
           "type": "web"
         },
         {
-          "url": "https://www.rferl.org/a/turkmenistan-s-authoritarian-leader-reprimands-ministers-of-national-security-defense/30393408.html",
-          "title": "Turkmen Leader Reprimands Ministers of National Security, Defense",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "http://www.tdh.gov.tm/news/articles.aspx%26article21201%26cat11",
           "title": "Archived copy",
           "access-date": "2022-02-20",
@@ -669,6 +663,12 @@
           "publisher": "TASS",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.rferl.org/a/turkmenistan-s-authoritarian-leader-reprimands-ministers-of-national-security-defense/30393408.html",
+          "title": "Turkmen Leader Reprimands Ministers of National Security, Defense",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://turkmenistan.gov.tm/ru/post/62094/rasshirennoe-zasedanie-gosudarstvennogo-soveta-bezopasnosti-turkmenistana-4",
@@ -820,6 +820,36 @@
           "date": "3 March 2021",
           "language": "Russian",
           "publisher": "parahat.info",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Reprimands",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "22 January 2020, stern reprimand with final warning for \"improper performance of official duties\""
+          },
+          {
+            "text": "5 June 2022, reprimand for \"inadequate performance of assigned duties, deficiencies in the work\""
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://metbugat.gov.tm/newspaper?id=8661",
+          "title": "Указ Президента Туркменистана О Мяликгулыеве С.Г.",
+          "date": "6 July 2022",
+          "language": "ru",
+          "publisher": "Neytral'nyy Turkmenistan",
           "template": "citation",
           "type": "news"
         }
