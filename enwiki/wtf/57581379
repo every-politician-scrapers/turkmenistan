@@ -1396,7 +1396,7 @@
               ]
             },
             {
-              "text": "Former Indian President Ram Nath Kovind made a state visit to Turkmenistan on 1-4 April, marking the first visit of the President of India to Turkmenistan, and the first foreign head of state to be received by Berdimuhamedow.",
+              "text": "Former Indian President Ram Nath Kovind made a state visit to Turkmenistan on 1–4 April, marking the first visit of the President of India to Turkmenistan, and the first foreign head of state to be received by Berdimuhamedow.",
               "links": [
                 {
                   "type": "internal",
@@ -1408,7 +1408,7 @@
               "text": "The two leaders discussed expanding trade and energy cooperation."
             },
             {
-              "text": "President Berdimuhamedow made his first foreign visit, to Saudi Arabia, on 1-2 June.",
+              "text": "President Berdimuhamedow made his first foreign visit, to Saudi Arabia, on 1–2 June.",
               "links": [
                 {
                   "type": "internal",
@@ -1913,7 +1913,7 @@
         {
           "sentences": [
             {
-              "text": "Berdimuhamedov speaks Turkmen, Russian, and English.",
+              "text": "Berdimuhamedov speaks Turkmen, Russian and English.",
               "links": [
                 {
                   "text": "Turkmen",
@@ -1940,7 +1940,7 @@
               "text": "On 30 May 2022, Berdimuhamedov's mother Ogulgerek Berdimuhamedova was awarded the title of Honored Carpet Weaver of Turkmenistan for her many years at the carpet factory in the city of Geoktepe."
             },
             {
-              "text": "On 1-2 June 2022, he undertook his first foreign visit to Saudi Arabia, where he and his son performed Umrah.",
+              "text": "On 1–2 June 2022, he undertook his first foreign visit to Saudi Arabia, where he and his son performed Umrah.",
               "links": [
                 {
                   "type": "internal",
@@ -2057,6 +2057,12 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
         },
         {
           "template": "s-start"
