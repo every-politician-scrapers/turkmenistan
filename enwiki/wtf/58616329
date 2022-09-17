@@ -30,7 +30,7 @@
                 {
                   "text": "Minister of Defense of Turkmenistan",
                   "type": "internal",
-                  "page": "Ministry of Defense of Turkmenistan"
+                  "page": "Ministry of Defense (Turkmenistan)"
                 },
                 {
                   "type": "internal",
@@ -66,6 +66,12 @@
           "day": "16",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Turkmenistan"
+          ],
+          "template": "armed forces"
         }
       ],
       "infoboxes": [
@@ -74,10 +80,7 @@
             "text": "Begench Gundogdyev"
           },
           "image": {
-            "text": "File:Begench Gundogdyev.jpg"
-          },
-          "image_size": {
-            "text": "250px"
+            "text": "Begench Gundogdyev (cropped).jpg"
           },
           "office": {
             "text": "Minister of Defense of Turkmenistan",
@@ -85,7 +88,7 @@
               {
                 "text": "Minister of Defense of Turkmenistan",
                 "type": "internal",
-                "page": "Ministry of Defense of Turkmenistan"
+                "page": "Ministry of Defense (Turkmenistan)"
               }
             ]
           },
@@ -238,17 +241,8 @@
               }
             ]
           },
-          "branch": {
-            "text": "Armed Forces of Turkmenistan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Armed Forces of Turkmenistan"
-              }
-            ]
-          },
           "serviceyears": {
-            "text": "1993-present"
+            "text": "1993–present"
           },
           "rank": {
             "text": "Lieutenant General",
