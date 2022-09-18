@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Gulshat Sahiyevna Mammedova or Gülşat Sahyýewna Mämmedowa (born 1964) is a Turkmen politician and chair (Speaker) of the Turkmen Mejlis, the lower chamber of the Turkmen Parliament.",
+              "text": "Gülşat Sahyýewna Mämmedowa (born 1964) is a Turkmen politician and chair (Speaker) of the Turkmen Mejlis, the lower chamber of the Turkmen Parliament.",
               "links": [
                 {
                   "text": "Speaker",
@@ -40,7 +40,6 @@
               ],
               "formatting": {
                 "bold": [
-                  "Gulshat Sahiyevna Mammedova",
                   "Gülşat Sahyýewna Mämmedowa"
                 ]
               }
