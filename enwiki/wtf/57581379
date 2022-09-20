@@ -1603,6 +1603,36 @@
             "col4": {
               "text": "Working visit."
             }
+          },
+          {
+            "col1": {
+              "text": "Samarkand, Uzbekistan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Samarkand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uzbekistan"
+                }
+              ]
+            },
+            "col2": {
+              "text": "15 September 2022"
+            },
+            "col3": {
+              "text": "President Shavkat Mirziyoyev",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shavkat Mirziyoyev"
+                }
+              ]
+            },
+            "col4": {
+              "text": "Working visit."
+            }
           }
         ]
       ],
@@ -1635,6 +1665,14 @@
         {
           "url": "http://president.kg/ru/sobytiya/22971_prezident_sadir_ghaparov_vstretilsya_s_prezidentom_turkmenistana_serdarom_berdimuhamedovim",
           "title": "События - Официальный сайт Президента Кыргызской Республики",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Xi Jinping Meets with Turkmen President Serdar Berdymukhamedov",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/202209/t20220915_10766457.html",
+          "access-date": "2022-09-20",
+          "website": "www.fmprc.gov.cn",
           "template": "citation",
           "type": "web"
         },
