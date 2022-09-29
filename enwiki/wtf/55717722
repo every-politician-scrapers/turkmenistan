@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Gülşat Sahyýewna Mämmedowa (born 1964) is a Turkmen politician and chair (Speaker) of the Turkmen Mejlis, the lower chamber of the Turkmen Parliament.",
+              "text": "Gülşat Sahyýewna Mämmedowa (born 1964) is a Turkmen politician and chair (Speaker) of the Turkmen Mejlis, the lower chamber of the National Council of Turkmenistan.",
               "links": [
                 {
                   "text": "Speaker",
@@ -36,6 +36,10 @@
                   "text": "Turkmen Mejlis",
                   "type": "internal",
                   "page": "Assembly of Turkmenistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Council of Turkmenistan"
                 }
               ],
               "formatting": {
