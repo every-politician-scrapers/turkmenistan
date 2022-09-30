@@ -9,7 +9,7 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def holder_entries
-    noko.xpath("//h2[.//span[contains(.,'Foreign Ministers of Turkmenistan')]]//following-sibling::ul[1]//li")
+    noko.xpath("//h2[.//span[contains(.,'foreign ministers of Turkmenistan')]]//following-sibling::ul[1]//li")
   end
 
   class Officeholder < OfficeholderNonTableBase
