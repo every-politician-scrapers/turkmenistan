@@ -35,14 +35,18 @@
               }
             },
             {
-              "text": "Berdimuhamedow had previously served in several other positions within the government of his father, president Gurbanguly Berdimuhamedow.",
+              "text": "Berdimuhamedow had previously served in several other positions within the government of his father, Gurbanguly Berdimuhamedow.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Gurbanguly Berdimuhamedow"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In 2021, he became one of several deputy chairmen in the Cabinet of Ministers of Turkmenistan.",
               "links": [
