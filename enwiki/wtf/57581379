@@ -1637,6 +1637,36 @@
             "col4": {
               "text": "Working visit."
             }
+          },
+          {
+            "col1": {
+              "text": "Astana, Kazakhstan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Astana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kazakhstan"
+                }
+              ]
+            },
+            "col2": {
+              "text": "14-15 October 2022"
+            },
+            "col3": {
+              "text": "President Kassym-Jomart Tokayev",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kassym-Jomart Tokayev"
+                }
+              ]
+            },
+            "col4": {
+              "text": "State visit."
+            }
           }
         ]
       ],
@@ -1679,6 +1709,12 @@
           "website": "www.fmprc.gov.cn",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "date": "22 March 2022",
