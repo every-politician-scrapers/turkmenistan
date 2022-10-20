@@ -111,12 +111,12 @@
           "template": "lang-rus"
         },
         {
-          "transcription": "sʲeɾdɐɾ ɡuɾbɑːn.ɡuɫɨʲevɪt͡ɕ bʲeɾdɨmuχɐmʲedəf",
+          "transcription": "sʲɪrˈdar ɡʊrbənɡʊˈɫɨ(j)ɪvʲɪt͡ɕ bʲɪrdɨmʊxɐˈmʲedəf",
           "template": "ipa"
         },
         {
           "list": [
-            ";"
+            "; ,"
           ],
           "template": "efn"
         }
@@ -1711,10 +1711,10 @@
           "type": "web"
         },
         {
+          "url": "https://www.akorda.kz/ru/prezidenty-kazahstana-i-turkmenistana-proveli-peregovory-v-uzkom-sostave-159183",
+          "title": "Президенты Казахстана и Туркменистана провели переговоры в узком составе — Официальный сайт Президента Республики Казахстан",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "date": "22 March 2022",
