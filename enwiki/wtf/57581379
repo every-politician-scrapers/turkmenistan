@@ -334,16 +334,16 @@
         {
           "sentences": [
             {
-              "text": "Serdar Berdimuhamedow was born on 22 September 1981 in Ashgabat."
-            },
-            {
-              "text": "He studied at Secondary School No. 43 in Ashgabat from 1987 to 1997.",
+              "text": "Serdar Berdimuhamedow was born on 22 September 1981 in Ashgabat.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Ashgabat"
                 }
               ]
+            },
+            {
+              "text": "He studied at Secondary School No. 43 in Ashgabat from 1987 to 1997."
             },
             {
               "text": "Between 1997 and 2001, he studied at the Turkmen Agricultural University, graduating as an engineer-technologist.",
