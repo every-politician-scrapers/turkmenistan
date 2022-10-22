@@ -2015,7 +2015,14 @@
         {
           "sentences": [
             {
-              "text": "On 30 May 2022, Berdimuhamedov's mother Ogulgerek Berdimuhamedova was awarded the title of Honored Carpet Weaver of Turkmenistan for her many years at the carpet factory in the city of Geoktepe."
+              "text": "On 30 May 2022, Berdimuhamedov's mother Ogulgerek Berdimuhamedova was awarded the title of Honored Carpet Weaver of Turkmenistan for her many years at the carpet factory in the city of Geoktepe.",
+              "links": [
+                {
+                  "text": "Geoktepe",
+                  "type": "internal",
+                  "page": "Geok Tepe"
+                }
+              ]
             },
             {
               "text": "On 1–2 June 2022, he undertook his first foreign visit to Saudi Arabia, where he and his son performed Umrah.",
