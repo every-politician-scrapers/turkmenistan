@@ -1667,6 +1667,36 @@
             "col4": {
               "text": "State visit."
             }
+          },
+          {
+            "col1": {
+              "text": "Abu Dhabi, United Arab Emirates",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abu Dhabi"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Arab Emirates"
+                }
+              ]
+            },
+            "col2": {
+              "text": "21–22 November 2022"
+            },
+            "col3": {
+              "text": "President Mohamed bin Zayed Al Nahyan",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed bin Zayed Al Nahyan"
+                }
+              ]
+            },
+            "col4": {
+              "text": "State visit."
+            }
           }
         ]
       ],
@@ -1713,6 +1743,14 @@
         {
           "url": "https://www.akorda.kz/ru/prezidenty-kazahstana-i-turkmenistana-proveli-peregovory-v-uzkom-sostave-159183",
           "title": "Президенты Казахстана и Туркменистана провели переговоры в узком составе — Официальный сайт Президента Республики Казахстан",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://tdh.gov.tm/en/post/33732/official-visit-president-turkmenistan-united-arab-emirates-finalized",
+          "title": "The official visit of the President of Turkmenistan to the United Arab Emirates finalized",
+          "website": "Turkmenistan Today",
+          "date": "22 November 2022",
           "template": "citation",
           "type": "web"
         },
