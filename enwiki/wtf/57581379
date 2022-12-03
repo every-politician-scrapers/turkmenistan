@@ -1444,21 +1444,7 @@
       "tables": [
         [
           {
-            "col1": {
-              "text": "City and Country"
-            },
-            "col2": {
-              "text": "Dates"
-            },
-            "col3": {
-              "text": "Host"
-            },
-            "col4": {
-              "text": "Notes"
-            }
-          },
-          {
-            "col1": {
+            "City and Country": {
               "text": "Mecca and Medina, Saudi Arabia",
               "links": [
                 {
@@ -1475,10 +1461,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "1–2 June 2022"
             },
-            "col3": {
+            "Host": {
               "text": "Governor Khalid bin Faisal Al Saud",
               "links": [
                 {
@@ -1487,12 +1473,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "Private visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Moscow, Russia",
               "links": [
                 {
@@ -1501,10 +1487,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "10 June 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Vladimir Putin",
               "links": [
                 {
@@ -1513,12 +1499,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "State visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Tehran, Iran",
               "links": [
                 {
@@ -1527,10 +1513,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "15 June 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Ebrahim Raisi",
               "links": [
                 {
@@ -1539,12 +1525,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "State visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Tashkent and Khorazm Vilayat, Uzbekistan",
               "links": [
                 {
@@ -1562,10 +1548,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "14-15 July 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Shavkat Mirziyoyev",
               "links": [
                 {
@@ -1574,12 +1560,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "State visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Cholpon-Ata, Kyrgyzstan",
               "links": [
                 {
@@ -1592,10 +1578,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "21 July 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Sadyr Japarov",
               "links": [
                 {
@@ -1604,12 +1590,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "Working visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Samarkand, Uzbekistan",
               "links": [
                 {
@@ -1622,10 +1608,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "15 September 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Shavkat Mirziyoyev",
               "links": [
                 {
@@ -1634,12 +1620,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "Working visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Astana, Kazakhstan",
               "links": [
                 {
@@ -1652,10 +1638,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "14-15 October 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Kassym-Jomart Tokayev",
               "links": [
                 {
@@ -1664,12 +1650,12 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "State visit."
             }
           },
           {
-            "col1": {
+            "City and Country": {
               "text": "Abu Dhabi, United Arab Emirates",
               "links": [
                 {
@@ -1682,10 +1668,10 @@
                 }
               ]
             },
-            "col2": {
+            "Dates": {
               "text": "21–22 November 2022"
             },
-            "col3": {
+            "Host": {
               "text": "President Mohamed bin Zayed Al Nahyan",
               "links": [
                 {
@@ -1694,7 +1680,7 @@
                 }
               ]
             },
-            "col4": {
+            "Notes": {
               "text": "State visit."
             }
           }
