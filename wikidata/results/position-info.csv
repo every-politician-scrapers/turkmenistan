@@ -1,5 +1,5 @@
 position,positionLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished,predecessor,predecessorLabel,successor,successorLabel,deputy,deputyLabel,list,listLabel
-Q1155759,President of Turkmenistan,Q874,Turkmenistan,Q874,Turkmenistan,1990-11-02,,,,,,,,,
+Q1155759,President of Turkmenistan,Q874,Turkmenistan,Q874,Turkmenistan,1990-11-02,,,,,,,,Q20046227,list of presidents of Turkmenistan
 Q4185705,Vice President of Turkmenistan,Q874,Turkmenistan,Q874,Turkmenistan,1992-01-01,,,,,,,,,
 Q21328577,Member of the Assembly of Turkmenistan,Q874,Turkmenistan,Q874,Turkmenistan,,,,,,,,,,
 Q31440057,Turkmen Ambassador to China,,,,,,,,,,,,,,
