@@ -1679,6 +1679,59 @@
             "Notes": {
               "text": "State visit."
             }
+          },
+          {
+            "City and Country": {
+              "text": "Saint Petersburg, Russia",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Petersburg, Russia"
+                }
+              ]
+            },
+            "Dates": {
+              "text": "26-27 December 2022"
+            },
+            "Host": {
+              "text": "President Vladimir Putin",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President Vladimir Putin"
+                }
+              ]
+            },
+            "Notes": {
+              "text": "Working visit."
+            }
+          },
+          {
+            "City and Country": {
+              "text": "Beijing, China",
+              "links": [
+                {
+                  "text": "Beijing, China",
+                  "type": "internal",
+                  "page": "Beijing China"
+                }
+              ]
+            },
+            "Dates": {
+              "text": "5-6 January 2023"
+            },
+            "Host": {
+              "text": "President Xi Jinping",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xi Jinping"
+                }
+              ]
+            },
+            "Notes": {
+              "text": "State visit."
+            }
           }
         ]
       ],
@@ -1733,6 +1786,14 @@
           "title": "The official visit of the President of Turkmenistan to the United Arab Emirates finalized",
           "website": "Turkmenistan Today",
           "date": "22 November 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Xi Jinping Holds Talks with President of Turkmenistan Serdar Berdimuhamedov",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/202301/t20230106_11003561.html",
+          "access-date": "2023-01-07",
+          "website": "www.fmprc.gov.cn",
           "template": "citation",
           "type": "web"
         },
